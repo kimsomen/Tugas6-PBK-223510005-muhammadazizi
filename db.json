@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": null,
+      "title": "judul 1",
+      "content": "content"
+    },
+    {
+      "id": null,
+      "title": "judul 2",
+      "content": ""
+    },
+    {
+      "id": null,
+      "title": "judul 3",
+      "content": ""
+    }
+  ]
+}
